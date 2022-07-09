@@ -9,6 +9,21 @@ In both notebooks, `reconstruct_vanilla` implement the imputation process discus
 
 ## Results:
 
+<figure>
+  <div>
+  <img src="./results/grey.png" width="100" />
+  <figcaption>Grey</figcaption>
+  </div>
+    <div>
+  <img src="./results/color_vanilla.png" width="100" /> 
+  <figcaption>Colorized using Score-SDE</figcaption>
+    </div>
+    <div>
+  <img src="./results/color_mcg.png" width="100" />
+  <figcaption>Colorized using MCG</figcaption>
+    </div>
+<figure>
+
 Grey:
 
 ![a](./results/grey.png)
